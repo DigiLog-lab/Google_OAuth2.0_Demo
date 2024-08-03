@@ -2,7 +2,7 @@
 
 #**Google OAuth2.0のデモサンプル**
 初心者向けにOAuth2.0の実装例をFlaskで作ってみました。
-独学で作ったので、もしかしたらもっといい作り方があるとは思いますが、なにかあればプルリクください(笑)。
+独学で作ったので、間違っているところもあるかもしれません。
 #**使い方**
 ```
 git clone https://github.com/DigiLog-lab/Google_OAuth2.0_Demo.git
