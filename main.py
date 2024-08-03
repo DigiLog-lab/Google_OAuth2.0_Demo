@@ -27,7 +27,7 @@ CLIENT_SECRETS_FILE = "client_secret.json"
 SCOPES = ["https://www.googleapis.com/auth/drive.file"]
 
 app = Flask(__name__)
-app.secret_key = os.urandom(64)
+app.secret_key = os.urandom(24)
 
 
 """
